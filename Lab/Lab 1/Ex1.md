@@ -7,7 +7,8 @@ Reason: To understand importance of Daemons as many DD are Daemons.
 
 ### Terms used ### 
 Stand-alone Daemon: basically a daemon that gives information to other process doesn't need any input from other process
-super server Daemon / Manage Daemons: Daemon that starts other servers when needed  
+
+Super server Daemon: Daemon that starts other servers when needed  
 
 Sno| Daemon | Description
 ---|---|---
